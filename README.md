@@ -3,4 +3,5 @@ This is a practise following the Pluralsight course Understanding Android Applic
 - Display Notes
 - Edit Notes
 - New Notes
-The courses listed are fixed in DataManager.java file which are not editable.
+- Share Notes
+The courses listed are hard-coded in DataManager.java file which are not editable.
